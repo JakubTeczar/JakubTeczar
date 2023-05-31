@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kuba</h1>
+<h1 align="center">Cześć 👋, jestem Kuba</h1>
 <h3 align="center">Interesuje się tworzeniem stron internetowych.</h3>
 
 - 🔭 Aktualnie pracuje nad [Zjadbyco](https://jakubteczar.github.io/site/#/zjadbyco)
