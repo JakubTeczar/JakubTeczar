@@ -5,7 +5,7 @@
 
 - 🔭 Aktualnie pracuje nad  [Zjadbyco](https://jakubteczar.github.io/site/#/zjadbyco)
 
-- 🌱 Jestem w trakcie nauki **TypeScripta** </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
+- 🌱 Jestem w trakcie nauki **TypeScripta** </br> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
 
 <p align="left">
 </p>
