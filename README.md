@@ -1,13 +1,12 @@
 <h1 align="center">Cześć 👋, jestem Kuba</h1>
 <h3 align="center">Interesuje się tworzeniem stron internetowych.</h3>
 
-- 🔭 Aktualnie pracuje nad [Zjadbyco](https://jakubteczar.github.io/site/#/zjadbyco)
+- 👨‍💻 Wszystkie moje projekty znajdziesz tutaj [https://jakubteczar.github.io/site/](https://jakubteczar.github.io/site/)
+
+- 🔭 Aktualnie pracuje nad  [Zjadbyco](https://jakubteczar.github.io/site/#/zjadbyco)
 
 - 🌱 Jestem w trakcie nauki **TypeScripta**
 
-- 👨‍💻 Wszystkie moje projekty znajdziesz tutaj [https://jakubteczar.github.io/site/](https://jakubteczar.github.io/site/)
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
