@@ -1,7 +1,9 @@
 <h1 align="center">Hello 👋</h1>
-- 👨‍💻 You will find all my projects here -> https://jakubteczar.github.io/site/#/en
+
+- 👨‍💻 You will find all my projects here -> <a href="https://jakubteczar.github.io/site/#/en ">Portfolio side</a>
   <br></br>
-![Portfolio](https://github.com/JakubTeczar/JakubTeczar/assets/106376926/fb78ba8b-a251-4fe8-b178-8dd99849e0ac)
+  
+![Portfolio](https://github.com/JakubTeczar/JakubTeczar/assets/106376926/5a2e969b-21c4-4c48-82be-30c60e0c8c61)
 
 <p align="left">
 </p>
