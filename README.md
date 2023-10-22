@@ -1,6 +1,4 @@
 <h1 align="center">Hello 👋</h1>
-<h3 align="center">­I am a student of <b>applied computer science.</b></h3>
-
 - 👨‍💻 You will find all my projects here -> https://jakubteczar.github.io/site/#/en
   <br></br>
 ![Portfolio](https://github.com/JakubTeczar/JakubTeczar/assets/106376926/fb78ba8b-a251-4fe8-b178-8dd99849e0ac)
