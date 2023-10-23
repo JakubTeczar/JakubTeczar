@@ -17,8 +17,6 @@
 -PHP | MySQL <br>
 
 
-
-<div class="badge-base LI-profile-badge" data-locale="pl_PL" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="jakub-tęczar" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://pl.linkedin.com/in/jakub-t%C4%99czar/pl?trk=profile-badge">jakub teczar</a></div>
               
 
 
