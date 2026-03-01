@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋</h1>
 
-<img width="1292" height="786" alt="Zrzut ekranu 2025-10-30 204623" src="https://github.com/user-attachments/assets/6e09f0ad-b7d7-4401-ae89-a3e5ee356199" />
+<img width="1326" height="829" alt="image" src="https://github.com/user-attachments/assets/25c9b4e2-571e-42c5-a670-f71e71761f41" />
 
 - 👨‍💻 <a href="https://jakubteczar.pl/">Portfolio side</a>
   <br></br>
