@@ -1,6 +1,7 @@
 <h1 align="center">Hello 👋</h1>
 <a href="https://jakubteczar.pl/">
-<img width="1271" height="740" alt="image" src="https://github.com/user-attachments/assets/e6a9c879-ba3f-46a2-90dc-5e7093cd496c" />
+<img width="1291" height="706" alt="image" src="https://github.com/user-attachments/assets/7c2aacf8-d8df-4ef1-89a5-da54d5580b95" />
+
 </a>
 - 👨‍💻<a href="https://jakubteczar.pl/">Click and see my portfolio</a>
   <br></br>
